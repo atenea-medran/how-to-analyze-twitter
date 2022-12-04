@@ -1,0 +1,2 @@
+C:/Users/Piratena/Desktop/Repositorios/Estrohacker/Como-analizar-twitter/Twarc2[[:space:]]twitter[[:space:]]scraper/felizmiercoles.jsonl filter=lfs diff=lfs merge=lfs -text
+*.jsonl filter=lfs diff=lfs merge=lfs -text
